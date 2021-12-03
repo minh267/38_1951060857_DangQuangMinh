@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer a{
+    display: flex;
+}
+.footer .bird{
+    display: flex;
+    align-items: center;
+}
+.footer h4{
+    margin-left: 10px;
+}
+.end{
+    display: flex;
+    margin-left: 500px;
+    margin-top: 0;
+    
+}
+.footer .container{
+    margin-top: 100px;
+}
+.my_intro{
+    text-align: justify;
+}
+.navbar .container-fluid .navbar1 a span{
+    text-align: center;
+}
+.navbar .container-fluid .navbar1 a{
+    display: flex;
+}
+.end{
+    opacity: 0.4;
+}
